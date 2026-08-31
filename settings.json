@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "imgonnacry",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Flobizarle.aternos.me",
-    "port": 51698,
+    "ip": "Flobizarle-u512.aternos.org",
+    "port": 16330,
     "version": "",
     "try-creative": false
   },
